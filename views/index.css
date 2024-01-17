@@ -1,0 +1,7 @@
+.container {
+    text-align: center;
+}
+
+.for_Name,.for_Phone, .for_email, .for_btn{
+    margin-top: 15px;
+}
